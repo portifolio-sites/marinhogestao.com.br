@@ -76,7 +76,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 70px;
+  height: 160px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -113,8 +113,7 @@ h6 {
 
 @media(max-width: 600px){
   #header .logo img {
-    margin-top: 10%;
-    height: 100px;
+    height: 170px;
   } 
 }
 
